@@ -1,0 +1,20 @@
+Algorithm
+
+1.Function accepts a word.
+2.Should not accept anything else rather than a string.
+3.Should check the length of array.
+4.Split the array into two parts.
+5.Should check if thel first string and last string are the same.
+
+pseudocode
+
+1.Acccept string.   
+2.Check the string length.
+3.Split the string in half.
+4.Check the first letter in both the pieces.
+5.If the first letter in the first piece === last letter in the other piece && If the last letter in the fisrt piece  === first letter in the other piece return true.
+6.Else return false.
+
+Written Solution of code
+
+This is a program that checks is a string is a Palindrome ie. can be written in reverse and still be the same thing eg. 'mom' or 'madam'
